@@ -2,4 +2,4 @@
 
 Nikhil Dange
 
-https://nik-dange.github.io/Lab6_Starter/index.html
+https://nik-dange.github.io/Lab6_Starter/
